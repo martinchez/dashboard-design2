@@ -1,0 +1,57 @@
+body{
+	 background-image: linear-gradient(rgba(20,0,255,0.8),rgba(255,0,173,0.7)),url(1.jpeg);
+	 background-size: cover;
+	 background-position: center;
+	 height: 645px;
+	 color: #fff !important;
+}.logo{
+	height: 60px;
+	margin-top: 30px;
+}
+.welcome-text{
+	margin:  90px auto;
+}h1{
+	text-transform: uppercase !important;
+	font-family: sans-serif !important;
+	font-weight: bolder !important;
+	font-size: 72px !important;
+	letter-spacing: 4px !important;
+}
+.description{
+	margin-top: 50px;
+	letter-spacing: 3px
+}.form-control{
+	margin: 20px;
+	border-radius: 0px !important;
+	background-color: transparent !important;
+	color: #fff !important;
+
+}
+.subscribe{
+	background: #fff;
+	color: #000;
+	border: none;
+	width: 120px;
+	height: 26px;
+	margin: 10px auto;
+	display: block;
+}
+.subscribe:hover{
+	background: #00fbff;
+	transition: 0.2s;
+}
+.social{
+	margin-top: 60px;
+	float: right;
+	display: block;
+}
+a .fa{
+	color: #cccc;
+	font-size: 20px;
+	display: block;
+}
+a .fa:hover{
+	color: #00fbff;
+	font-size: 20px;
+	display: block;
+}
